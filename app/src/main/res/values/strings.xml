@@ -6,18 +6,18 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Themes</string>
-    <string name="hebf" translatable="false">Hearth empty, battery full</string>
+    <string name="hebf" translatable="false">Heart empty, battery full</string>
     <string name="hebf_sub" translatable="false">\"Heart empty, battery full\"</string>
     <string name="play_services">Google Play Services drain fix</string>
     <string name="play_services_sub">Fixes the battery drain caused by some of the Google Play Services background services.</string>
     <string name="play_services_on">Google Play Services drain fix activated</string>
     <string name="play_services_off">Google Play Services drain fix deactivated</string>
     <string name="zipalign">Zipalign</string>
-    <string name="zipalign_sub">Optimizes the android package files (and its uncompressed data) alignment.</string>
+    <string name="zipalign_sub">Optimizes the android package files (and its uncompressed data).</string>
     <string name="zipalign_on">Zipalign turned on</string>
     <string name="zipalign_off">Zipalign turned off</string>
     <string name="net">TCP tweaks</string>
-    <string name="net_sub">Improves various TCP values for the IPv4 protocol such as timeout and sockets reuse.</string>
+    <string name="net_sub">Improves various TCP values for the IPv4 protocol such as timeout and sockets re-use.</string>
     <string name="net_on">Internet tweaks enabled</string>
     <string name="net_off">Internet tweaks disabled</string>
     <string name="gerais">General tweaks</string>
@@ -47,7 +47,7 @@
     <string name="game_off">Gaming mode deactivated</string>
     <string name="game_sub">Optimizes the FPS limit, enables purge of assets and frees more RAM for performance improvements in games.</string>
     <string name="performance_tweak">Performance tweak</string>
-    <string name="performance_sub">Enables the performance tunning mode, decreases the colors number to 16bpp (16 bits per pixel) and optimizes the \"fling\" velocity (smooth scroll) for a general improvement with minimal impact on battery.</string>
+    <string name="performance_sub">Enables the performance tuning mode, decreases the colors number to 16bpp (16 bits per pixel) and optimizes the \"fling\" velocity (smooth scroll) for a general improvement with minimal impact on battery.</string>
     <string name="pf_on">Performance tweaks enabled</string>
     <string name="pf_off">Performance tweaks disabled</string>
     <string name="multitasking">Best multitasking</string>
